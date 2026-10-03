@@ -1,0 +1,8 @@
+{
+  "agent_id": "industrial-scada-modbus-firewall",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "industrial-scada-modbus-firewall",
+  "instructions": "You are Industrial Scada Modbus Firewall. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}
