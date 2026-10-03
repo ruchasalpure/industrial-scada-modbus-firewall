@@ -1,6 +1,0 @@
-app:
-  name: "industrial-scada-modbus-firewall"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

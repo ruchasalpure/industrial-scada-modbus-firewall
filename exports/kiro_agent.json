@@ -1,5 +1,0 @@
-{
-  "name": "industrial-scada-modbus-firewall",
-  "service": "aws-kiro",
-  "version": "1.0.0"
-}
